@@ -21,7 +21,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </a></p>
 
 
-<b>My GitHub Stats</b>
+### My GitHub Stats
 
 <a href="http://www.github.com/DanilaKabanets"><img src="https://github-readme-stats.vercel.app/api?username=DanilaKabanets&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=64748b&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="DanilaKabanets's GitHub stats" /></a>
 
